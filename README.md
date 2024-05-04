@@ -12,7 +12,7 @@ I've poured my heart into creating this interactive game, implementing features 
 
 ![Rock Paper Scissors Game Screenshot](https://github.com/venkatagiri3/Rock-paper-Scissor-Game/blob/main/src/images/userwins.png)
 ## Try it out
-[Play the game now!](https://kt-rps.netlify.app/)
+[Play the game now!](https://giridreamerrockpaperscissorgame.netlify.app/)
 
 ## Key Features:
 - 🖐️ Rock, paper, scissors gameplay
