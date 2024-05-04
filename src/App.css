@@ -1,0 +1,43 @@
+*{
+  overflow: hidden;
+}
+::selection{
+  background-color: rgba(202, 106, 16, 0.774);
+  color: rgb(202, 107, 18);
+}
+.btn-custom{
+  background-color: aqua;
+}
+.btn-custom:hover{
+  background-color: bisque;
+}
+
+.abcd{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin-bottom: 1rem; */
+  height: 100vh;
+}
+.gamecomponent{
+  cursor: pointer;
+}
+
+.winner{
+  padding-top: 2rem;
+  color:rgb(170, 160, 17);
+}
+.seed{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 10%;
+}
+
+
+@media (max-width: 600px) {
+  img{
+    width: 100px;
+    height: 100px;
+  }
+}
